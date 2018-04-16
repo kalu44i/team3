@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ivanenko",
+    "position": "teacher",
+    "salary": "7000"
+  },
+  {
+    "name": "Petrov",
+    "position": "lecturer",
+    "salary": "17000"
+  },
+  {
+    "name": "Levkiv",
+    "position": "director",
+    "salary": "23000"
+  },
+  {
+    "name": "Potapenko",
+    "position": "ceo",
+    "salary": "100000"
+  },
+  {
+    "name": "kazematov",
+    "position": "clearer",
+    "salary": "1000"
+  },
+  {
+    "name": "Monodirect",
+    "position": "bankman",
+    "salary": "10000"
+  }
+]
